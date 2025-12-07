@@ -1,0 +1,23 @@
+HOW TO ADD YOUR PROFILE PICTURE
+================================
+
+1. Find your profile picture on your computer
+   (It can be .jpg, .jpeg, or .png format)
+
+2. Copy your image file
+
+3. Paste it into the "images" folder in this project:
+   C:\Users\Yashu\porfolio website yashaswini\images\
+
+4. Rename the file to exactly: profile.jpg
+   (If your file is .png, rename it to profile.png and update index.html)
+
+5. Refresh your browser to see the image!
+
+ALTERNATIVE: If you want to use a different filename:
+- Open index.html
+- Find the line with: <img src="images/profile.jpg"
+- Change "profile.jpg" to your image filename
+
+SUPPORTED FORMATS: .jpg, .jpeg, .png
+
